@@ -1,108 +1,38 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/08/14/Save-multiple-types-as-Enum.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/08/13/HowTo-UnitTest-Of-dotrycatch.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/Swift-AppDelegate-movement.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/JavaCompile-install-in-mac.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/GithubBlog-search-in-google.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/Certificate-conversion.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/Android-release-keystore.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/05/18/Android-code-obfuscation.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/03/31/RefreshScope-not-working.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/30/prepare-ios-image.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/26/Android-distribution.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/22/swift-one-IBAction-for-multiple-buttons.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/06/ios11-recording-check.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/02/how-to-use-git.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/2018/01/01/github-blog-with-jekyll.html</loc>
-    </url>
-    
-    <url>
-        <loc>https://oingbong.github.io/jekyll/update/2017/12/31/welcome-to-jekyll.html</loc>
-    </url>
-    
-
-    
-    
-    
-    <url>
-        <loc>https://oingbong.github.io/404.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://oingbong.github.io/about/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://oingbong.github.io/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://oingbong.github.io/Tags/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {\% for post in site.posts \%}
+  <url>
+    <loc>{ site.url }{ site.baseurl }{ post.url }</loc>
+    {\% if post.date \%}
+    <lastmod>{ post.date | date_to_xmlschema }</lastmod>
+    {\% endif \%}
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {\% endfor \%}
+  {\% for page in site.pages \%}
+  {\% if page.sitemap \%}
+  <url>
+    <loc>{ site.url }{ site.baseurl }{ page.url }</loc>
+    {\% if page.date \%}
+    <lastmod>{ page.date | date_to_xmlschema }</lastmod>
+    {\% endif \%}
+    <changefreq>{ sitemap.freq | default: 'monthly' }</changefreq>
+    <priority>{ sitemap.priority | default: '1.0' }</priority>
+  </url>
+  {\% endif \%}
+  {\% endfor \%}
+  {\% for tag in site.tags \%}
+  <url>
+    <loc>{ site.url }{ site.baseurl }/tags/{ tag.name }</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {\% endfor \%}
 </urlset>
