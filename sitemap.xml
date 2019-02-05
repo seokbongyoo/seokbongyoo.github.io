@@ -15,6 +15,5 @@
         <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endif %}
-    {% endif %}
     {% endfor %}
 </urlset>
