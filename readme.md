@@ -281,7 +281,7 @@ EE535 Digital Image Processing (Spring 2011)
 # SKILLS
 Programming Language – C/C++, MATLAB, Python, CUDA
 
-Library – OpenCV, OpenGL, CAFFE, TensorFlow, FFmpeg
+Library – OpenCV, OpenGL, TensorFlow, FFmpeg, PIL
 
 
 
