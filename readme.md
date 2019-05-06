@@ -77,17 +77,17 @@ GPA: 3.78/4.3
 
 # PUBLICATIONS 
 ### International Journal (Published)
-•	S. B. Yoo and M. Han, "DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging," IET Electronics Letters, vol. 55, no. 9, pp. 529-531, May 2019.
+•	S. B. Yoo and M. Han, "DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging," IET Electronics Letters, vol. 55, no. 9, pp. 529-531, May 2019. [SCI]
 
-•	S. B. Yoo and M. Han, "SCENet: Secondary Domain Intercorrelation Enhanced Network for Alleviating Compressed Poisson Noises," Sensors, vol. 19, no. 8, pp. 1-13, April 2019.
+•	S. B. Yoo and M. Han, "SCENet: Secondary Domain Intercorrelation Enhanced Network for Alleviating Compressed Poisson Noises," Sensors, vol. 19, no. 8, pp. 1-13, April 2019. [SCIE]
 
-•	S. B. Yoo and M. Han, "Efficient texture creation based on random patches in database and guided filter," IEICE Trans. on Information and Systems, vol. E101-D, no. 11, pp. 2840-2843, Nov. 2018.
+•	S. B. Yoo and M. Han, "Efficient texture creation based on random patches in database and guided filter," IEICE Trans. on Information and Systems, vol. E101-D, no. 11, pp. 2840-2843, Nov. 2018. [SCIE]
 
-•	S. B. Yoo, K. Choi, Y. W. Jeon, and J. B. Ra, "Texture enhancement for improving single-image super-resolution performance," Signal Processing: Image Communication, vol. 46, pp. 29-39, Aug. 2016.
+•	S. B. Yoo, K. Choi, Y. W. Jeon, and J. B. Ra, "Texture enhancement for improving single-image super-resolution performance," Signal Processing: Image Communication, vol. 46, pp. 29-39, Aug. 2016. [SCI]
 
-•	S. B. Yoo, K. Choi, and J. B. Ra, "Post-processing for blocking artifact reduction based on inter-block correlation," IEEE Trans. Multimedia, vol. 16, no. 6, pp. 1536-1548, Oct. 2014.
+•	S. B. Yoo, K. Choi, and J. B. Ra, "Post-processing for blocking artifact reduction based on inter-block correlation," IEEE Trans. Multimedia, vol. 16, no. 6, pp. 1536-1548, Oct. 2014. [SCIE]
 
-•	S. B. Yoo, K. Choi, and J. B. Ra, "Blind post-processing for ringing and mosquito artifact reduction in coded videos," IEEE Trans. Circ. Syst. for Video Technol., vol. 24, no. 5, pp. 721-732, May 2014.
+•	S. B. Yoo, K. Choi, and J. B. Ra, "Blind post-processing for ringing and mosquito artifact reduction in coded videos," IEEE Trans. Circ. Syst. for Video Technol., vol. 24, no. 5, pp. 721-732, May 2014. [SCI]
 ### International Journal (Submitted)
 •	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," In review, 2019.
 
