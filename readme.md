@@ -21,7 +21,7 @@ Object Detection and Classification
 Vehicle License Plate Recognition
 
 # WORKING EXPERIENCE
-Electronics and Telecommunications Research Institute (ETRI)
+### Electronics and Telecommunications Research Institute (ETRI)
 
 April 2018 – Current
 
@@ -31,20 +31,20 @@ Oct. 2017 – Mar. 2018
 
 •	Senior Engineer in Real & Emotional Platform Lab.
 
-Visual Display Business in Samsung Electronics
+### Visual Display Business in Samsung Electronics
 
 Nov. 2015 – Sep. 2017
 
 •	Senior Engineer in Picture Quality Lab. 
 
-Digital Media Communication R&D Center in Samsung Electronics
+### Digital Media Communication R&D Center in Samsung Electronics
 
 Sep. 2015 – Nov. 2015
 
 •	Senior Engineer in Multimedia Computing Lab.  
 
 # EDUCATION
-Ph.D. in Electrical Engineering, KAIST, Daejeon, Republic of Korea
+### Ph.D. in Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
 Feb. 2011–Aug. 2015
 
@@ -55,7 +55,7 @@ Advisor: Prof. Jong Beom Ra
 GPA: 4.15/4.3
 
 
-M.S. in Electrical Engineering, KAIST, Daejeon, Republic of Korea
+### M.S. in Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
 Feb. 2009–Feb. 2011
 
@@ -66,7 +66,7 @@ Advisor: Prof. Jong Beom Ra
 GPA: 4.18/4.3
 
 
-B.E. in Electrical Engineering, Yonsei University, Seoul, Republic of Korea
+### B.E. in Electrical Engineering, Yonsei University, Seoul, Republic of Korea
 
 Mar. 2003–Feb. 2009
 
@@ -129,20 +129,19 @@ GPA: 3.78/4.3
 •	동영상을 위한 양자화 테이블 추정 방법 및 장치, 2012년 11월
 
 # TECHNOLOGY TRANSFER
-단말 적응형 (초)다시점 콘텐츠 저작, 스트리밍 및 실시간 멀티 전송 기술 2건 기술 이전, 2017년
+### 단말 적응형 (초)다시점 콘텐츠 저작, 스트리밍 및 실시간 멀티 전송 기술 2건 기술 이전, 2017년
 
 •	단말 적응형 (초)다시점 콘텐츠 저작 및 스트리밍 기술
 
 •	MMT기반 (초)다시점 실사 영상/음성 실시간 전송 및 동기 재현 기술
-
-XD미디어 실감효과 저작 플러그인 기술 2건 기술 이전, 2017년
+### XD미디어 실감효과 저작 플러그인 기술 2건 기술 이전, 2017년
 
 •	오디오 햅틱 기반 실감효과 저작 기술 기술
 
 •	VR콘텐츠를 위한 실감효과 저작 플러그인 기술
 
 # RESEARCH PROJECTS
-5G 기반 스마트시티 서비스 개발 및 실증
+### 5G 기반 스마트시티 서비스 개발 및 실증
 
 연구기간: 2018.04~2020.12
 
@@ -151,7 +150,7 @@ XD미디어 실감효과 저작 플러그인 기술 2건 기술 이전, 2017년
 담당업무: CCTV 영상 내 객체 인식 및 크라우드소싱 영상 기반 차량 번호 인식기 개발
 
 
-Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
+### Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 
 연구기간: 2017.10~2018.04
 
@@ -160,7 +159,7 @@ Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 담당업무: 크로마키 기반 전/배경 분리를 이용한 실시간 다시점 AR 클라이언트 서비스 구현
 
 
-실감콘텐츠 산업 활성화를 위한 XD미디어 핵심 기술 개발
+### 실감콘텐츠 산업 활성화를 위한 XD미디어 핵심 기술 개발
 
 연구기간: 2017.10~2017.12
 
@@ -169,7 +168,7 @@ Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 담당업무: XD 미디어 저작도구 실감효과 시뮬레이션
 
 
-4K/8K 세밀감 고도화 
+### 4K/8K 세밀감 고도화 
 
 연구기간: 2017.01~2017.09
 
@@ -178,7 +177,7 @@ Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 담당업무: UHD TV向 Fine Texture Creation 알고리즘 연구 및 상용화
 
 
-일반 컨텐츠 8K 프리미엄 화질 기술 개발
+### 일반 컨텐츠 8K 프리미엄 화질 기술 개발
 
 연구기간: 2016.03~2016.10
 
@@ -187,7 +186,7 @@ Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 담당업무: UHD TV向 Deep Learning 기반의 Super-resolution 알고리즘 연구 및 상용화
 
 
-8K/무안경 3D TV 영상처리 Platform 개발
+### 8K/무안경 3D TV 영상처리 Platform 개발
 
 연구기간: 2013.10~2015.06
 
@@ -196,7 +195,7 @@ Giga Media 기반Tele-Experience 서비스SW 플랫폼 기술 개발
 담당업무: Super-resolution 및 Texture Synthesis 알고리즘 연구
 
 
-Video NR/SR 통합 처리 성능 개선 연구
+### Video NR/SR 통합 처리 성능 개선 연구
 
 연구기간: 2012.12~2013.12
 
@@ -205,7 +204,7 @@ Video NR/SR 통합 처리 성능 개선 연구
 담당업무: Denoising/Super-resolution 통합 알고리즘 연구
 
 
-UHD TV向 Single Frame Super Resolution 기술 개발
+### UHD TV向 Single Frame Super Resolution 기술 개발
 
 연구기간: 2012.08~2012.12
 
@@ -214,7 +213,7 @@ UHD TV向 Single Frame Super Resolution 기술 개발
 담당업무: Example-based Super-resolution 알고리즘의 상용화를 위한 복잡도 감소 방안 연구
 
 
-UHD향 고배율 압축 노이즈 감소 알고리즘 연구
+### UHD향 고배율 압축 노이즈 감소 알고리즘 연구
 
 연구기간: 2011.08~2012.06
 
@@ -223,7 +222,7 @@ UHD향 고배율 압축 노이즈 감소 알고리즘 연구
 담당업무: Codec 정보 없는 Blind 환경에서의 Deringing/Demosquito 후처리 알고리즘 연구
 
 
-고선명 화질을 위한 노이즈 감소 알고리즘 연구
+### 고선명 화질을 위한 노이즈 감소 알고리즘 연구
 
 연구기간: 2010.06~2011.05
 
@@ -232,7 +231,7 @@ UHD향 고배율 압축 노이즈 감소 알고리즘 연구
 담당업무: Codec 정보 없는 Blind 환경에서의 Deblocking 후처리 알고리즘 연구
 
 
-영상 표적 정보 획득 및 가공 능력 확보 기술 개발
+### 영상 표적 정보 획득 및 가공 능력 확보 기술 개발
 
 연구기간: 2010.01~2011.12
 
@@ -241,7 +240,7 @@ UHD향 고배율 압축 노이즈 감소 알고리즘 연구
 담당업무: 도로 추출 및 영상 융합 알고리즘 연구
 
 
-위성영상 복원 알고리즘 개발
+### 위성영상 복원 알고리즘 개발
 
 연구기간: 2010.01~2010.08
 
@@ -269,36 +268,6 @@ IET Electronics Letters
 EE201 Circuit Theory (Spring 2010, Fall 2010) 
 
 EE535 Digital Image Processing (Spring 2011)
-
-# HONORS, AWARDS, AND PRIZES
-CrossMark 
-
-2016. 08
-
-Texture enhancement for improving single-image super-resolution performance
-
-수여기관: Elsevier 국제저널 출판사
-
-
-이공계 국가 연구 장학생(유형2) 선정 및 장학금 수여
-
-2009.02~2011.02
-
-수여기관: 한국연구재단
-
-
-성적 최우등상
-
-2008년 1학기, 2007년 2학기
-
-수여기관: 연세대학교
-
-
-이공계 국가 장학생 선정 및 장학금 수여
-
-2003.03~2009.02
-
-수여기관: 한국연구재단
 
 # SKILLS
 Programming Language – C/C++, MATLAB, Python, CUDA
