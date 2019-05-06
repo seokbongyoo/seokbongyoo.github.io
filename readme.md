@@ -21,6 +21,7 @@ Object Detection and Classification
 Vehicle License Plate Recognition
 
 # WORKING EXPERIENCE
+
 ### Electronics and Telecommunications Research Institute (ETRI)
 
 April 2018 – Current
@@ -44,6 +45,7 @@ Sep. 2015 – Nov. 2015
 •	Senior Engineer in Multimedia Computing Lab.  
 
 # EDUCATION
+
 ### Ph.D. in Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
 Feb. 2011–Aug. 2015
@@ -75,7 +77,8 @@ Advisor: Prof. Hong-Yeop Song
 GPA: 3.78/4.3
 
 
-# PUBLICATIONS 
+# PUBLICATIONS
+ 
 ### International Journal (Published)
 •	S. B. Yoo and M. Han, "DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging," IET Electronics Letters, vol. 55, no. 9, pp. 529-531, May 2019. [SCI]
 
@@ -106,7 +109,9 @@ GPA: 3.78/4.3
 •	유석봉, 이훈기, 한미경, " 패치 데이터베이스 기반 고효율 텍스쳐 세밀감 향상 기법," 대한전자공학회 하계종합학술대회, 제주, 2018년 6월.
 
 •	유석봉, 최규하, 신건식, 나종범, "적응적인 블록 현상 후처리 기법," 대한전자공학회 하계종합학술대회, 제주, 2011년 6월 (Invited talk).
+
 # PATENTS
+
 ### International Patents (Registered)
 •	[US 9621884] Method and apparatus for estimating a quantization table for a video image, Apr. 2017.
 
@@ -129,6 +134,7 @@ GPA: 3.78/4.3
 •	동영상을 위한 양자화 테이블 추정 방법 및 장치, 2012년 11월
 
 # TECHNOLOGY TRANSFER
+
 ### 단말 적응형 (초)다시점 콘텐츠 저작, 스트리밍 및 실시간 멀티 전송 기술 2건 기술 이전, 2017년
 
 •	단말 적응형 (초)다시점 콘텐츠 저작 및 스트리밍 기술
@@ -141,6 +147,7 @@ GPA: 3.78/4.3
 •	VR콘텐츠를 위한 실감효과 저작 플러그인 기술
 
 # RESEARCH PROJECTS
+
 ### 5G 기반 스마트시티 서비스 개발 및 실증
 
 연구기간: 2018.04~2020.12
@@ -249,6 +256,7 @@ GPA: 3.78/4.3
 담당업무: 위성영상의 Seamless Image Stitching 알고리즘 연구
 
 # ACADEMIC ACTIVITIES
+
 ### Journal Reviewer
 IEEE Transactions on Image Processing
 
