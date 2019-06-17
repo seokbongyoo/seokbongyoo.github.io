@@ -3,9 +3,7 @@ Seok Bong Yoo (유석봉)
 
 City: Daejeon, Republic of Korea
 
-Phone Number: 82-10-4555-9590
-
-Email Address: sbyoo@etri.re.kr 
+Email Address: sbyoo at etri.re.kr 
 
 # RESEARCH INTERESTS
 Image and Video Processing
