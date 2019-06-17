@@ -92,9 +92,11 @@ GPA: 3.78/4.3
 
 •	S. B. Yoo, K. Choi, and J. B. Ra, "Blind post-processing for ringing and mosquito artifact reduction in coded videos," IEEE Trans. Circ. Syst. for Video Technol., vol. 24, no. 5, pp. 721-732, May 2014. [SCI]
 ### International Journal (Submitted)
-•	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," In review, 2019.
+•	S. B. Yoo and M. Han, "Optimal super-resolution imaging via object-adaptive optical point spread function estimation," Under review, 2019.
 
-•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” In review, 2019.
+•	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Under review, 2019.
+
+•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” Under review, 2019.
 ### International Conference
 •	S. H. Choi, S. B. Yoo, D. Jee, and M. Han, “The Service Scenario of Road Environment Improvement Based on Crowd Sourcing for Smart City,” International Conference on Advanced Communications Technology (ICACT), pp. 292-294, Feb. 2019.
 
