@@ -105,6 +105,8 @@ GPA: 3.78/4.3
 •	D. H. Lee, S. B. Yoo, M. Choi, J. B. Ra, and J. Kim, “Block poisson method and its application to large scale image editing,” in IEEE International Conference on Image Processing, pp. 2121-2124, Oct. 2012.
 
 •	S. B. Yoo, K. Choi, and J. B. Ra, “Post processing for blocking artifact reduction,” in IEEE International Conference on Image Processing, pp. 1541-1544, Sep. 2011.
+### International Conference (Submitted)
+•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," Under review, 2019.
 ### Domestic Conference 
 •	유석봉, 이훈기, 한미경, " 패치 데이터베이스 기반 고효율 텍스쳐 세밀감 향상 기법," 대한전자공학회 하계종합학술대회, 제주, 2018년 6월.
 
