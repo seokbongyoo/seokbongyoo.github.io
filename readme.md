@@ -90,12 +90,12 @@ GPA: 3.78/4.3
 
 •	S. B. Yoo, K. Choi, and J. B. Ra, "Blind post-processing for ringing and mosquito artifact reduction in coded videos," IEEE Trans. Circ. Syst. for Video Technol., vol. 24, no. 5, pp. 721-732, May 2014. [SCI]
 ### International Journal (Submitted)
-•	S. B. Yoo and M. Han, "Optimal super-resolution imaging via object-adaptive optical point spread function estimation," Under review, 2019.
-
 •	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Under review, 2019.
 
 •	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” Under review, 2019.
 ### International Conference
+•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," Accepted to International Conference on ICT Convergence (ICTC), 2019.
+
 •	S. H. Choi, S. B. Yoo, D. Jee, and M. Han, “The Service Scenario of Road Environment Improvement Based on Crowd Sourcing for Smart City,” International Conference on Advanced Communications Technology (ICACT), pp. 292-294, Feb. 2019.
 
 •	S. B. Yoo, M. Han, and J. H. Jang, “Texture Super-Resolution Framework Based on Recombination of Self-Examples,” International Conference on Modern Trends in Industrial Engineering, Artificial Intelligence, Computer and Applied Sciences (IACA), pp. 19, April 2018.
@@ -105,8 +105,6 @@ GPA: 3.78/4.3
 •	D. H. Lee, S. B. Yoo, M. Choi, J. B. Ra, and J. Kim, “Block poisson method and its application to large scale image editing,” in IEEE International Conference on Image Processing, pp. 2121-2124, Oct. 2012.
 
 •	S. B. Yoo, K. Choi, and J. B. Ra, “Post processing for blocking artifact reduction,” in IEEE International Conference on Image Processing, pp. 1541-1544, Sep. 2011.
-### International Conference (Submitted)
-•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," Under review, 2019.
 ### Domestic Conference 
 •	유석봉, 이훈기, 한미경, " 패치 데이터베이스 기반 고효율 텍스쳐 세밀감 향상 기법," 대한전자공학회 하계종합학술대회, 제주, 2018년 6월.
 
@@ -127,6 +125,10 @@ GPA: 3.78/4.3
 ### Domestic Patents (Registered)
 •	[KR 10-1910502] 변환계수를 이용한 영상 블록현상 제거 방법 및 그 장치, 2018년 10월 
 ### Domestic Patents (Applied)
+•   초해상도 이미징을 위한 패치 방향 적응형 병렬 신경망 기법 및 장치, 2019년 8월
+
+•   심층 신경망 기반 영상 내 압축 포아송 잡음 제거 기법 및 장치, 2019년 8월
+ 
 •  	크라우드소싱 영상 기반의 객체 및 객체 위치 동시 재식별 기법 및 장치, 2018년 12월
 
 •   바운딩박스의 양방향 시공간 매칭을 통한 동영상 객체 추출 정확도 향상 방법 및 장치, 2018년 12월
