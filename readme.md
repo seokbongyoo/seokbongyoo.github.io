@@ -3,7 +3,6 @@ Seok Bong Yoo (유석봉)
 
 City: Daejeon, Republic of Korea
 
-Email Address: sbyoo at etri.re.kr 
 
 # RESEARCH INTERESTS
 Image and Video Processing
@@ -78,6 +77,8 @@ GPA: 3.78/4.3
 # PUBLICATIONS
  
 ### International Journal (Published)
+•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” To be published, IET Electronics Letters. [SCI]
+
 •	S. B. Yoo and M. Han, "DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging," IET Electronics Letters, vol. 55, no. 9, pp. 529-531, May 2019. [SCI]
 
 •	S. B. Yoo and M. Han, "SCENet: Secondary Domain Intercorrelation Enhanced Network for Alleviating Compressed Poisson Noises," Sensors, vol. 19, no. 8, pp. 1-13, April 2019. [SCIE]
@@ -92,7 +93,6 @@ GPA: 3.78/4.3
 ### International Journal (Submitted)
 •	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Under review, 2019.
 
-•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” Under review, 2019.
 ### International Conference
 •	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," Accepted to International Conference on ICT Convergence (ICTC), 2019.
 
