@@ -273,6 +273,8 @@ IEEE Transactions on Circuits and Systems for Video Technology
 
 IEEE Transaction on Multimedia
 
+IEEE Accsess
+
 Elsevier Signal Processing Image Communication
 
 SPIE Optical Engineering
