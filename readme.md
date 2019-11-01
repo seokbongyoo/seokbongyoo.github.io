@@ -77,7 +77,7 @@ GPA: 3.78/4.3
 # PUBLICATIONS
  
 ### International Journal (Published)
-•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” To be published, IET Electronics Letters. [SCI]
+•	S. B. Yoo and M. Han, “Patch orientation-specified network for learning-based image super-resolution,” IET Electronics Letters, vol. 55, no. 23, pp. 1233-1235, Sep. 2019. [SCI]
 
 •	S. B. Yoo and M. Han, "DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging," IET Electronics Letters, vol. 55, no. 9, pp. 529-531, May 2019. [SCI]
 
@@ -90,11 +90,11 @@ GPA: 3.78/4.3
 •	S. B. Yoo, K. Choi, and J. B. Ra, "Post-processing for blocking artifact reduction based on inter-block correlation," IEEE Trans. Multimedia, vol. 16, no. 6, pp. 1536-1548, Oct. 2014. [SCIE]
 
 •	S. B. Yoo, K. Choi, and J. B. Ra, "Blind post-processing for ringing and mosquito artifact reduction in coded videos," IEEE Trans. Circ. Syst. for Video Technol., vol. 24, no. 5, pp. 721-732, May 2014. [SCI]
-### International Journal (Submitted)
-•	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Under review, 2019.
+### International Journal (Accepted)
+•	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Accepted, ETRI Journal, Oct. 2019. [SCI]
 
 ### International Conference
-•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," Accepted to International Conference on ICT Convergence (ICTC), 2019.
+•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019.
 
 •	S. H. Choi, S. B. Yoo, D. Jee, and M. Han, “The Service Scenario of Road Environment Improvement Based on Crowd Sourcing for Smart City,” International Conference on Advanced Communications Technology (ICACT), pp. 292-294, Feb. 2019.
 
