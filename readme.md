@@ -7,15 +7,16 @@ City: Daejeon, Republic of Korea
 # RESEARCH INTERESTS
 Image and Video Processing
 
-Post-processing for Compression Artifact Reduction
+Computer Vision
 
-Image Denoising
+Artificial Intelligence
 
-Learning-based Image Super-resolution and Texture Synthesis
+Deep Neural Network
 
-Object Detection and Classification
+Machine Learning
 
-Vehicle License Plate Recognition
+Immersive Media
+
 
 # WORKING EXPERIENCE
 
