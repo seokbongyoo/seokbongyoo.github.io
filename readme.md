@@ -95,7 +95,7 @@ GPA: 3.78/4.3
 •	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Accepted, ETRI Journal, Oct. 2019. [SCI]
 
 ### International Conference
-•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019.
+•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019. [SCI]
 
 •	S. H. Choi, S. B. Yoo, D. Jee, and M. Han, “The Service Scenario of Road Environment Improvement Based on Crowd Sourcing for Smart City,” International Conference on Advanced Communications Technology (ICACT), pp. 292-294, Feb. 2019.
 
