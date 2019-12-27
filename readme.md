@@ -96,7 +96,7 @@ GPA: 3.78/4.3
 ### International Journal (Submitted)
 •	S. B. Yoo and M. Han, "Deep Super-Resolution Imaging Technology: Toward Optical Super-Vision," Under review, IEEE Consumer Electronics Magazine. [SCIE]
 ### International Conference
-•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019. [SCI]
+•	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019.
 
 •	S. H. Choi, S. B. Yoo, D. Jee, and M. Han, “The Service Scenario of Road Environment Improvement Based on Crowd Sourcing for Smart City,” International Conference on Advanced Communications Technology (ICACT), pp. 292-294, Feb. 2019.
 
@@ -144,7 +144,7 @@ GPA: 3.78/4.3
 •	동영상을 위한 양자화 테이블 추정 방법 및 장치, 2012년 11월
 
 # TECHNOLOGY TRANSFER
-#### 크라우드소싱 서비스에 강인한 경량DNN기반 실시간 차량번호 인식 기술 1건 기술 이전, 2019년 
+#### 크라우드소싱 서비스에 강인한 경량DNN기반 실시간 차량번호 인식 기술 2건 기술 이전, 2019년 
 •	경량DNN기반 실시간 차량번호 인식 기술
 
 #### 단말 적응형 (초)다시점 콘텐츠 저작, 스트리밍 및 실시간 멀티 전송 기술 2건 기술 이전, 2017년
