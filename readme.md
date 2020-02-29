@@ -1,7 +1,8 @@
 # PROFILE
 Seok Bong Yoo (유석봉)
-
-City: Daejeon, Republic of Korea
+Assistant Professor
+Chonnam National University (CNU)
+City: Gwangju, Republic of Korea
 
 
 # RESEARCH INTERESTS
@@ -22,7 +23,7 @@ Immersive Media
 
 ### Electronics and Telecommunications Research Institute (ETRI)
 
-April 2018 – Current
+April 2018 – Feb. 2020
 
 •	Senior Engineer in IoT Research Division
 
