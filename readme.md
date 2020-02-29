@@ -94,7 +94,7 @@ GPA: 3.78/4.3
 ### International Journal (Accepted)
 •	S. B. Yoo and M. Han, "Temporal Matching Prior Network for Vehicle License Plate Detection and Recognition in Videos," Accepted, ETRI Journal, Oct. 2019. [SCI]
 ### International Journal (Submitted)
-•	S. B. Yoo and M. Han, "Deep Super-Resolution Imaging Technology: Toward Optical Super-Vision," Under review, IEEE Consumer Electronics Magazine. [SCIE]
+•	S. B. Yoo, "Deep Super-Resolution Imaging Technology: Toward Optical Super-Vision," Under review, IEEE Consumer Electronics Magazine. [SCIE]
 ### International Conference
 •	S. B. Yoo and M. Han, "Real-Time Texture Synthesis via Aggregation of Internal and External Patch Candidates," International Conference on ICT Convergence (ICTC), pp. 1446-1450, Oct. 2019.
 
