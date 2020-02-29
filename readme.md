@@ -1,7 +1,10 @@
 # PROFILE
 Seok Bong Yoo (유석봉)
+
 Assistant Professor
+
 Chonnam National University (CNU)
+
 City: Gwangju, Republic of Korea
 
 
